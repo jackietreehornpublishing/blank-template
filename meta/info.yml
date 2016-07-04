@@ -9,7 +9,7 @@ description:
 parameters:
   - name: description
     required: true
-    description: The microservice short description
+    description: The short description of your new Atomist Project Template
     valid-input-description: A short description of the service.
 
   - name: template-type
