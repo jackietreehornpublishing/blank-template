@@ -1,8 +1,8 @@
-# A ${name} Atomist Project Template
+# A \${name} Atomist Project Template
 
-${description}
+\${description}
 
 History
 -------
 
-Originally created by Atomist on ${creation_date}.
+Originally created by Atomist on \${creation_date}.
